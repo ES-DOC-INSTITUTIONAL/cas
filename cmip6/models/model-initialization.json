@@ -1,0 +1,53 @@
+{
+    "fgoals-f3-h": {
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }, 
+        "toplevel": {
+            "initializedFrom": ""
+        }
+    }, 
+    "fgoals-f3-l": {
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }, 
+        "toplevel": {
+            "initializedFrom": ""
+        }
+    }, 
+    "fgoals-g3": {
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }, 
+        "toplevel": {
+            "initializedFrom": ""
+        }
+    }
+}
