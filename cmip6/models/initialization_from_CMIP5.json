@@ -1,5 +1,34 @@
 {
+    "cas-esm1-0": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
+        "aerosol": {
+            "initializedFrom": ""
+        }, 
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "atmoschem": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "ocnbgchem": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }
+    }, 
     "fgoals-f3-h": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
         "atmos": {
             "initializedFrom": ""
         }, 
@@ -10,13 +39,13 @@
             "initializedFrom": ""
         }, 
         "seaice": {
-            "initializedFrom": ""
-        }, 
-        "toplevel": {
             "initializedFrom": ""
         }
     }, 
     "fgoals-f3-l": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
         "atmos": {
             "initializedFrom": ""
         }, 
@@ -27,13 +56,13 @@
             "initializedFrom": ""
         }, 
         "seaice": {
-            "initializedFrom": ""
-        }, 
-        "toplevel": {
             "initializedFrom": ""
         }
     }, 
     "fgoals-g3": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
         "atmos": {
             "initializedFrom": ""
         }, 
@@ -44,9 +73,6 @@
             "initializedFrom": ""
         }, 
         "seaice": {
-            "initializedFrom": ""
-        }, 
-        "toplevel": {
             "initializedFrom": ""
         }
     }
